@@ -65,14 +65,8 @@ The script logs its activities in a file named `vulnerability_scan.log`. The log
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
 
 ## Acknowledgments
 
 - Inspired by the need to maintain secure file and directory permissions in various environments.
-
----
-
-Feel free to customize this README.md according to your specific needs and repository structure.
